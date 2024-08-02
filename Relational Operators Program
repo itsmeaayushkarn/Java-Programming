@@ -1,0 +1,31 @@
+public class Relationaloperators {
+
+    public static void main(String[] args) {
+
+        int p=20, q=10;
+
+        //Is equal to operator: ==
+        System.out.println(p==q);
+        //Output= false
+
+        //Not Equal to: !=
+        System.out.println(p!=q);
+        //Output= true
+
+        //Lesser Than: <
+        System.out.println(p<q);
+        //Output= false
+
+        //Greater than: >
+        System.out.println(p>q);
+        //Output= true
+
+        //Greater than equal to: >=
+        System.out.println(p>=q);
+        //Output= true
+
+        //Lesser than equal to: <==
+        System.out.println(p<=q);
+        //Output= false
+    }
+}
