@@ -1,0 +1,22 @@
+public class Arithmeticoperators {
+
+    public static void main(String[] args) {
+
+        int p=50, q=5;
+
+//Addition Operator
+        System.out.println(p+q);
+
+//Subtraction Operator
+        System.out.println(p-q);
+
+//Multiplication Operator
+        System.out.println(p*q);
+
+//Division Operator
+        System.out.println(p/q);
+
+//Modulus Operator
+        System.out.println(p%q);
+    }
+}
